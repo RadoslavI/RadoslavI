@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RadoslavI
-- 👀 I’m interested in bla bla
+- 📚 I’m currently studying Software Engineering with C# @SoftUni as well as IT in Industry @Technical University Of Sofia
 - 🌱 I’m currently learning C#, Java, MySQL
 - 📫 How to reach me: radogi001@gmail.com
 

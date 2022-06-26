@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RadoslavI
-- 👀 I’m interested in ...
+- 👀 I’m interested in bla bla
 - 🌱 I’m currently learning C#, Java, MySQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: radogi001@gmail.com
 
 <!---
 RadoslavI/RadoslavI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

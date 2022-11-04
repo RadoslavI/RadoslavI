@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RadoslavI
 - 📚 I’m currently studying Software Engineering with C# @ SoftUni as well as IT in Industry @ Technical University of Sofia
-- 🌱 I’m currently learning C#, Java, MySQL, MS SQL
+- 🌱 I’m currently learning ASP.NET, C#, Java, MySQL, MS SQL
 - 📫 How to reach me: radogi001@gmail.com
 
 <!---

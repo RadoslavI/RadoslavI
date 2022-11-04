@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RadoslavI
+- 👋 Hi, my name is Radoslav Ivanov!
 - 📚 I’m currently studying Software Engineering with C# @ SoftUni as well as IT in Industry @ Technical University of Sofia
-- 🌱 I’m currently learning ASP.NET, C#, Java, MySQL, MS SQL
+- 🌱 I’m currently learning  mainly ASP.NET and C# but also Java, TSQL, MySQL and C++
 - 📫 How to reach me: radogi001@gmail.com
 
 <!---

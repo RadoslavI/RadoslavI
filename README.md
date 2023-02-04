@@ -5,10 +5,10 @@
 
 
 ## Github Activity
-![Radoslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadoslavI&show_icons=true&theme=gruvbox)
+![Radoslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadoslavI&show_icons=true&theme=github_dark )
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavI&layout=compact&theme=gruvbox)](https://github.com/RadoslavI)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavI&layout=compact&theme=github_dark )](https://github.com/RadoslavI)
 
 <!---
 RadoslavI/RadoslavI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

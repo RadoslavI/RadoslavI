@@ -5,9 +5,8 @@
 
 
 ## Github Activity
-![Radoslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadoslavI&show_icons=true&theme=github_dark )
+![Radoslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadoslavI&show_icons=true&theme=github_dark )     
 
-## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavI&layout=compact&theme=github_dark )](https://github.com/RadoslavI)
 
 <!---

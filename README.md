@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Radoslav Ivanov!
-- 📚 I’m currently studying Software Engineering with C# @SoftUni and IT in Industry @Technical University of Sofia
-- 🌱 I’m currently learning  mainly ASP.NET and C#.
-- 📫 How to reach me: radoslavgi01@gmail.com
+- 📚 I have a bachelor's degree in Software Engineering specializing in Information Technologies in Industry, and currenly studying for a Master's degree in Management and Business Information Systems both @Technical University of Sofia.
+- 🌱 I specialize mainly ASP.NET and C#.
+- 📫 How to reach me: radoslav.ivanov.dev@gmail.com
 
 
 ## Github Activity
